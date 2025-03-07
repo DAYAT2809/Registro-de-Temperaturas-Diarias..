@@ -1,1 +1,0 @@
-# Registro-de-Temperaturas-Diarias..
